@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waka489
+- 👋 Hi, I’m Denzel Waka
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various projects related to data analysis 
