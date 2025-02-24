@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various projects related to data analysis 
-- 📫 You can find me on Gmail.denzelwaka31@ail.com
+- 📫 You can find me on Gmail.denzelwaka31@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...i love playing chess
 
